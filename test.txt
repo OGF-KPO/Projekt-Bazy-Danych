@@ -1,0 +1,1 @@
+testuje jak działają commity, pulle i pliki w jirze
