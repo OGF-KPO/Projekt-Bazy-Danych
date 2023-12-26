@@ -1,1 +1,2 @@
 testuje jak działają commity, pulle i pliki w jirze
+test do pull
